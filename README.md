@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pavithra Vijayarangan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node js
-- 📫 How to reach me paviv592003@gmail.com
+- 📫 How to reach me paviv592003@gmail.com & https://www.linkedin.com/in/pavithrav2003
 - ⚡ Fun fact: React is the only place where 'state' is a good thing. 
 
 <!---
