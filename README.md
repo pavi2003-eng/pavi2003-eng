@@ -36,4 +36,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavi2003-eng&" alt="pavi2003-eng" /></p>
 
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
