@@ -25,7 +25,7 @@
 <a href="https://www.naukri.com/code360/profile/a83eda06-d7e2-4622-b4af-3ec1d48f2a04"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9t9UxtLvKlyy9ziOJMyMHBRAukK7jgFYLmw&s" alt="@pavithra_vijayarangan" height="40" width="40" /></a>
 <a href="https://leetcode.com/u/Pavithra_Vijayarangan/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVDryL8IP8KfE5TCcicQPA_Tm83WHG8I6og&s" alt="@pavithra_vijayarangan" height="40" width="40" /></a>
 <a href="http://www.skillrack.com/profile/421543/8de0eff9fc1b9f8269784cc5d369da5b1d59bcb0" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4D0BAQEq2uAbuhweNw/company-logo_200_200/company-logo_200_200/0/1631340864382?e=2147483647&v=beta&t=eI1RmvHAoToulNMQgS9nX3PSR50hBlL8u8mQBiWql-c" alt="42112110211@ifet" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/@bright_dust_03" target="blank" ><img align="center" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png" alt="@bright_dust_03" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/@bright_dust_03" target="blank" ><img align="center" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png" alt="@bright_dust_03" height="45" width="40" /></a>
 </p>
 
 <h3 align="left"><i>Languages and Tools:</i></h3>
