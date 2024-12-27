@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pavithra Vijayarangan👩‍💻</h1>
 <h3 align="center"><i>A passionate Web developer💻</i></h3>
 <h5 align="center"><i>Design until it's a Success</i></h5>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavi2003-eng&label=Profile%20views&color=0e75b6&style=flat" alt="pavi2003-eng" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavi2003-eng" alt="pavi2003-eng" /></a> </p>
 
 
