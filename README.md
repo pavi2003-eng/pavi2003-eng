@@ -11,7 +11,7 @@
 
 - 📫 How to reach me  _**paviv592003@gmail.com**_
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1h18do0Yae-IgVxjLlQarmXAn7ALAykHt/view?usp=drivesdk" target="_blank"><Strong><i>Pavithra_Vijayarangan_Resume</i></Strong></a>
+
 
 - ⚡ Fun fact    _**React is the only place where 'state' is a good thing.**_
 
