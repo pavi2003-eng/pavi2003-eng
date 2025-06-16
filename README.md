@@ -88,11 +88,9 @@ _**React is the only place where 'state' is a good thing.**_
 ### 🏅 Certifications
 
 - 📡 Introduction to **CCNA V7 – Cisco**
-- 🐍 **Python 3.x** Programming Hands-On
-- 💾 **SQL Basics – Coding Ninjas**
-- 🔗 SkillRack:  Total Program Solved: 910
-- [Cert-1](https://www.skillrack.com/cert/493018/PVV)
-- [Cert-2](https://www.skillrack.com/cert/490669/EKG)
+- 🐍 **Python 3.x** Programming Hands-On [Certificate Link](https://www.skillrack.com/cert/493018/PVV)
+- 💾 **SQL Basics** [Certificate Link](https://www.skillrack.com/cert/490669/EKG)
+- 🔗 SkillRack:  Total Program Solved: 910 
 
 ---
 
