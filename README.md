@@ -25,7 +25,7 @@
     <tbody>
       <tr>
         <td>2018 - 2019</td>
-        <td>Government Girls Higher Secondary School, Pudupet</td>
+        <td>Government Girls Higher Secondary School</td>
         <td>10th Standard</td>
         <td>Pudupet</td>
       </tr>
