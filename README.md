@@ -117,7 +117,7 @@ _**React is the only place where 'state' is a good thing.**_
   <a href="http://www.skillrack.com/profile/421543/8de0eff9fc1b9f8269784cc5d369da5b1d59bcb0" target="blank">
     <img align="center" src="https://media.licdn.com/dms/image/v2/C4D0BAQEq2uAbuhweNw/company-logo_200_200/company-logo_200_200/0/1631340864382?e=2147483647&v=beta&t=eI1RmvHAoToulNMQgS9nX3PSR50hBlL8u8mQBiWql-c" alt="42112110211@ifet" height="40" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/@bright_dust_03" target="blank">
+  <a href="https://www.codechef.com/users/bright_dust_03" target="blank">
     <img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/images/user_default_thumb.jpg" alt="@bright_dust_03" height="40" width="40" />
   </a>
 </p>
