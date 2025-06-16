@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavi2003-eng&label=Profile%20views&color=0e75b6&style=flat" alt="pavi2003-eng" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavi2003-eng" alt="pavi2003-eng" /></a> </p>
 
-
-
 - 🌱 I’m currently learning  _**Node**_
 
 - 📫 How to reach me  _**paviv592003@gmail.com**_
@@ -14,6 +12,43 @@
 
 
 - ⚡ Fun fact    _**React is the only place where 'state' is a good thing.**_
+- **Education & Career Timeline**
+<table>
+    <thead>
+      <tr>
+        <th>Year</th>
+        <th>Institution / Company</th>
+        <th>Course / Role</th>
+        <th>Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2018 - 2019</td>
+        <td>Government Girls Higher Secondary School, Pudupet</td>
+        <td>10th Standard</td>
+        <td>Pudupet</td>
+      </tr>
+      <tr>
+        <td>2020 - 2021</td>
+        <td>Government Model Girls Higher Secondary School</td>
+        <td>12th Standard</td>
+        <td>Villupuram</td>
+      </tr>
+      <tr>
+        <td>2021 - 2025</td>
+        <td>IFET College of Engineering</td>
+        <td>B.E. Computer Science and Engineering</td>
+        <td>Villupuram</td>
+      </tr>
+      <tr>
+        <td>2025 - Present</td>
+        <td>COO24 Technologies Private Limited</td>
+        <td>Junior Software Developer</td>
+        <td>Chennai</td>
+      </tr>
+    </tbody>
+  </table>
 
 <h3 align="left"><i>Connect with me</i>:</h3>
 <p align="left">
