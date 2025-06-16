@@ -4,9 +4,8 @@
 <h1 align="center">Hi 👋, I'm Pavithra Vijayarangan 👩‍💻</h1>
 <h3 align="center"><i>A passionate Web developer 💻</i></h3>
 <h5 align="center"><i>Consistency turns bugs into features</i></h5>
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pavi2003-eng&label=Profile%20views&color=0e75b6&style=flat" alt="pavi2003-eng" />
+  <img src="https://komarev.com/ghpvc/?username=pavi2003-eng&label=My%20Visitors&color=37d67a&style=flat" alt="Profile Views" style="font-family:Arial, sans-serif; padding:5px;" />
 </p>
 
 <p align="left">
@@ -123,6 +122,21 @@ _**React is the only place where 'state' is a good thing.**_
 </p>
 
 ---
+  ### 🚀 My Tech Stack
+
+<p >
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,python,git,vscode" />
+</p>
+
+---
+### 💡 Developer Philosophy
+
+> “First solve the problem, then write the code.”  
+> – John Johnson
+
+> I believe clean code, modular design and consistent learning lead to exceptional user experiences.
+
+---
 
 ### 📊 GitHub Stats
 
@@ -133,7 +147,6 @@ _**React is the only place where 'state' is a good thing.**_
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavi2003-eng&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavi2003-eng&" alt="Streak Stats" />
 </p>
