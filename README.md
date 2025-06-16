@@ -76,13 +76,13 @@ _**React is the only place where 'state' is a good thing.**_
 ### 💻 Projects
 
 - ✅ **ToDo Tasklist**  
-  Task manager with add/edit/delete features using HTML, CSS, JavaScript.
+  <p align="justify">Task manager with add/edit/delete features using HTML, CSS, JavaScript.</p>
 
 - 🌐 **Smart Health Care System**  
-  Real-time text and voice translation between staff and patients.
+  <p align="justify">Real-time text and voice translation between staff and patients.</p>
 
 - 🌱 **Crop Yield Forecasting**  
-  AI model using transfer learning and weather/soil data to predict yields.
+  <p align="justify">AI model using transfer learning and weather/soil data to predict yields.</p>
 
 ---
 
