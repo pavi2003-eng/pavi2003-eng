@@ -27,6 +27,11 @@ _**Typescript**_
 _**React is the only place where 'state' is a good thing.**_
 
 ---
+### 📁 My GitHub Repositories
+
+[![GitHub Repos](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavi2003-eng?tab=repositories)
+
+---
 
 ### 🎓 Education & Career Timeline
 
