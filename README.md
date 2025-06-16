@@ -9,9 +9,8 @@
 
 - 📫 How to reach me  _**paviv592003@gmail.com**_
 
-
-
 - ⚡ Fun fact    _**React is the only place where 'state' is a good thing.**_
+---
 - **Education & Career Timeline**
 <table>
     <thead>
@@ -49,7 +48,6 @@
       </tr>
     </tbody>
   </table>
-
 <h3 align="left"><i>Connect with me</i>:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pavithrav2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithrav2003" height="30" width="40" /></a>
