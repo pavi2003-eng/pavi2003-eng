@@ -8,11 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=pavi2003-eng&label=My%20Visitors&color=37d67a&style=flat" alt="Profile Views" style="font-family:Arial, sans-serif; padding:5px;" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pavi2003-eng" alt="pavi2003-eng" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavi2003-eng" alt="pavi2003-eng" /></a> </p>
 
 ---
 
