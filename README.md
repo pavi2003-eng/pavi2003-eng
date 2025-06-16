@@ -18,7 +18,9 @@
 
 ### 🧾 About Me
 
-I’m a Full Stack Developer skilled in HTML, CSS, Bootstrap, JavaScript, React, Node.js, MongoDB & Python. Passionate about creating responsive UIs, building secure APIs, and solving real-world problems with clean code and logic.
+<p align="justify">
+I’m a Full Stack Developer skilled in HTML, CSS, Bootstrap, JavaScript, React, Node.js, MongoDB & Python. Passionate about creating responsive UIs, building secure APIs and solving real-world problems with clean code and logic.
+</p>
 
 ---
 
