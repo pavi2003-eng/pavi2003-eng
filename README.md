@@ -128,7 +128,8 @@ _**React is the only place where 'state' is a good thing.**_
   ### 🚀 My Tech Stack
 
 <p >
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular,ts,nodejs,mongodb,python,git,vscode,ionic" />
+<!-- <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular,ts,nodejs,mongodb,python,git,vscode,ionic" /> -->
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular,ionic,ts,nodejs,mongodb,python,git,vscode" />
 
 </p>
 
