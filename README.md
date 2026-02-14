@@ -15,7 +15,7 @@
 ### 🧾 About Me
 
 <p align="justify">
-I’m a Full Stack Developer skilled in HTML, CSS, Bootstrap, JavaScript, React, Node.js, MongoDB, Typescript, Atomic Structure, Solid Principles.  Passionate about creating responsive UIs, building secure APIs and solving real-world problems with clean code and logic.
+I’m a Full Stack Developer skilled in HTML, CSS, Bootstrap, Angular, JavaScript, React, Node.js, MongoDB, Typescript, Atomic Structure, Solid Principles.  Passionate about creating responsive UIs, building secure APIs and solving real-world problems with clean code and logic.
 </p>
 
 ---
